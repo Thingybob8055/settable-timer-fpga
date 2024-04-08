@@ -30,3 +30,7 @@
 - Select [Basys3_Master.xdc](./Basys3_Master.xdc) as the constraints file
 - Synthesise, Implement and Generate Bitstream using Vivado
 - Enjoy!
+
+
+> [!NOTE]
+> This has been tested on the Basys3 board using Vivado 2022.2
